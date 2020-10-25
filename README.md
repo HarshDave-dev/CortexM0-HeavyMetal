@@ -1,5 +1,5 @@
 # CortexM0-HeavyMetal
-
+# STM32F072B Discovery board
 This is a bare metal code offereing minimal features such as clock(HSI48)/system bus(APB, AHB) configurations, system tick and GPIO configuration.
 
 Once the startup sequence which involves setting up of the vector table, initializing .bss, stack, head, data secction is done, We configure clock source, its prescalers, APB, AHB bus clock configuration and finally GPIO configuration.
