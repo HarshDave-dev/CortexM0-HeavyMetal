@@ -1,0 +1,6 @@
+"App/Src/main.o"
+"App/Src/interrupt_handler.o"
+"App/Startup/cortexM0Startup.o"
+"Drivers/Src/cortexM0Systick.o"
+"Drivers/Src/cortexM0Gpio.o"
+"Drivers/Src/cortexM0ResetClockConf.o"
